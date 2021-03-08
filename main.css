@@ -1,6 +1,10 @@
 * {
     box-sizing: border-box;
 }
+.wrapper {
+    background: url(img/elephant.png) center top no-repeat, url(img/background.png) center bottom 165px no-repeat ;
+}
+
 
 html,
 body {
